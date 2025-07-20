@@ -27,6 +27,9 @@ th, td {
   padding: 0.5em 1em;
   text-align: left;
 }
+td:first-child {
+  white-space: nowrap !important;
+}
 </style>
 
 # チェス記録
