@@ -3,6 +3,9 @@ title: Chess Record
 ---
 
 # ♟️Chess Practice Record
+<p align="center">
+  <a href="https://github.com/nax2orbit" target="_blank" rel="noopener">My GitHub</a>
+</p>
 
 | date       | rate | comment            |
 |------------|--------|--------------------------|
