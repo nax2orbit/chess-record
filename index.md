@@ -1,7 +1,8 @@
-<link rel="icon" type="image/x-icon" href="/chess-record/favicon.ico">
 ---
 title: チェス記録
 ---
+
+<link rel="icon" type="image/x-icon" href="/chess-record/favicon.ico">
 
 <style>
 table, th, td {
