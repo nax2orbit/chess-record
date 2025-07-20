@@ -1,3 +1,4 @@
+<link rel="icon" type="image/x-icon" href="/chess-record/favicon.ico">
 ---
 title: チェス記録
 ---
