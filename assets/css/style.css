@@ -1,4 +1,4 @@
-table, th, td {
+/* table, th, td {
   background: #222 !important;
   color: #eee !important;
 }
@@ -24,4 +24,58 @@ th, td {
 }
 td:first-child {
   white-space: nowrap !important;
+}
+ */
+
+body {
+  background: #222;
+  color: #eee;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.markdown-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ページタイトル余白 */
+h1 {
+  margin-top: 60px;
+  margin-bottom: 2em;
+  text-align: center;
+  font-size: 2rem;
+  letter-spacing: 0.1em;
+}
+
+/* テーブル中央寄せ＆見やすく */
+table {
+  margin: 0 auto 48px auto; /* 中央＋下に余白 */
+  width: 90vw;
+  max-width: 700px;
+  border-collapse: collapse;
+  font-size: 1.1em;
+  background: #262d36;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.13);
+}
+th, td {
+  border: 1px solid #555;
+  padding: 0.5em 1em;
+  text-align: left;
+}
+th {
+  background: #444;
+  color: #fff;
+}
+tr:nth-child(even) td {
+  background: #333;
+}
+tr:nth-child(odd) td {
+  background: #222;
+}
+td:first-child {
+  white-space: nowrap;
 }
