@@ -3,24 +3,30 @@ title: チェス記録
 ---
 
 <style>
+table, th, td {
+  background: #222 !important;
+  color: #eee !important;
+}
+th {
+  background: #444 !important;
+  color: #fff !important;
+}
+tr:nth-child(even) td {
+  background: #333 !important;
+}
+tr:nth-child(odd) td {
+  background: #222 !important;
+}
 table {
   width: 100%;
   border-collapse: collapse;
   font-size: 1.1em;
 }
 th, td {
-  border: 1px solid #bbb;
+  border: 1px solid #555 !important;
   padding: 0.5em 1em;
   text-align: left;
 }
-th {
-  background: #333;
-  color: #fff;
-}
-tr:nth-child(even) {
-  background: #f7f7f7;
-}
-</style>
 
 # チェス記録
 
