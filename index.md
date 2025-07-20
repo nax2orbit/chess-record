@@ -1,9 +1,7 @@
 ---
 title: チェス記録
 ---
-
-<link rel="icon" type="image/x-icon" href="/chess-record/favicon.ico">
-
+<!--
 <style>
 table, th, td {
   background: #222 !important;
@@ -33,6 +31,7 @@ td:first-child {
   white-space: nowrap !important;
 }
 </style>
+-->
 
 # チェス記録
 
