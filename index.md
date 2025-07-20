@@ -7,7 +7,7 @@ title: Chess Record
 <p align="center">
   <a href="https://github.com/nax2orbit" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; gap:0.5em; font-size:1.1em; text-decoration:none;">
     <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub" width="24" height="24" style="vertical-align:middle;">
-    My GitHub
+    by nax2orbit
   </a>
 </p>
 
